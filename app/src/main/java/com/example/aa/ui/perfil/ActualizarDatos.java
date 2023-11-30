@@ -1,5 +1,6 @@
 package com.example.aa.ui.perfil;
 
+import android.annotation.SuppressLint;
 import android.content.ContentValues;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -24,12 +25,13 @@ public class ActualizarDatos extends AppCompatActivity {
     Button btnActualizar;
     String correoUsuario;
 
+    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_actualizar_datos);
 
-        // Inicializar componentes
+
         etNombre = findViewById(R.id.nombre);
         etApePat = findViewById(R.id.apePat);
         etApeMat = findViewById(R.id.apeMat);
@@ -56,13 +58,14 @@ public class ActualizarDatos extends AppCompatActivity {
         });
     }
 
+    @SuppressLint("Range")
     private void cargarDatosUsuario() {
         SharedPreferences sharedPreferences = getSharedPreferences("PreferenciasUsuario", MODE_PRIVATE);
         correoUsuario = sharedPreferences.getString("correoUsuario", null);
         if (correoUsuario != null) {
             Base baseDatos = new Base(this, "administrador", null, 1);
             Cursor cursor = baseDatos.obtenerUsuario(correoUsuario);
-            if (cursor != null && cursor.moveToFirst()) {
+            if (cursor.moveToFirst()) {
                 etNombre.setText(cursor.getString(cursor.getColumnIndex("nombreUsuario")));
                 etApePat.setText(cursor.getString(cursor.getColumnIndex("apePatUsuario")));
                 etApeMat.setText(cursor.getString(cursor.getColumnIndex("apeMatUsuario")));

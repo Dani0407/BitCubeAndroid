@@ -1,58 +1,66 @@
 [
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_actualizar_datos.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_actualizar_datos.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_actualizar_datos.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_actualizar_datos.xml"
     },
     {
-        "merged": "com.example.aa.app-mergeDebugResources-41:/layout/activity_actualizar_datos.xml",
-        "source": "com.example.aa.app-main-44:/layout/activity_actualizar_datos.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\fragment_perfil.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_perfil.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_esp_medicas.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_esp_medicas.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\fragment_gallery.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_gallery.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\content_nav_drawer.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\content_nav_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\app_bar_nav_drawer.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\app_bar_nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\nav_header_nav_drawer.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\nav_header_nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\fragment_slideshow.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_slideshow.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_nav_drawer.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_nav_drawer.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_nav_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\content_nav_drawer.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\content_nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_gato.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_gato.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_home.xml"
+        "merged": "com.example.aa.app-mergeDebugResources-41:/layout/activity_ahorcado.xml",
+        "source": "com.example.aa.app-main-44:/layout/activity_ahorcado.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_esp_medicas.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_esp_medicas.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\app_bar_nav_drawer.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\app_bar_nav_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_registroo.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_registroo.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_registroo.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_registroo.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_ahorcado.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_ahorcado.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_inicio_sesion.xml",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_inicio_sesion.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\nav_header_nav_drawer.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\nav_header_nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\fragment_perfil.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-mergeDebugResources-41:\\layout\\activity_inicio_sesion.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_inicio_sesion.xml"
     }
 ]

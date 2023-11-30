@@ -4,10 +4,10 @@ package com.example.aa.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
+import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.appcompat.widget.AppCompatButton;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.aa.R;
@@ -17,20 +17,24 @@ import java.lang.String;
 
 public final class FragmentGalleryBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final LinearLayout rootView;
 
   @NonNull
-  public final TextView textGallery;
+  public final AppCompatButton btnAhorcado;
 
-  private FragmentGalleryBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textGallery) {
+  @NonNull
+  public final AppCompatButton btnGato;
+
+  private FragmentGalleryBinding(@NonNull LinearLayout rootView,
+      @NonNull AppCompatButton btnAhorcado, @NonNull AppCompatButton btnGato) {
     this.rootView = rootView;
-    this.textGallery = textGallery;
+    this.btnAhorcado = btnAhorcado;
+    this.btnGato = btnGato;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -55,13 +59,19 @@ public final class FragmentGalleryBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.text_gallery;
-      TextView textGallery = ViewBindings.findChildViewById(rootView, id);
-      if (textGallery == null) {
+      id = R.id.btnAhorcado;
+      AppCompatButton btnAhorcado = ViewBindings.findChildViewById(rootView, id);
+      if (btnAhorcado == null) {
         break missingId;
       }
 
-      return new FragmentGalleryBinding((ConstraintLayout) rootView, textGallery);
+      id = R.id.btnGato;
+      AppCompatButton btnGato = ViewBindings.findChildViewById(rootView, id);
+      if (btnGato == null) {
+        break missingId;
+      }
+
+      return new FragmentGalleryBinding((LinearLayout) rootView, btnAhorcado, btnGato);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

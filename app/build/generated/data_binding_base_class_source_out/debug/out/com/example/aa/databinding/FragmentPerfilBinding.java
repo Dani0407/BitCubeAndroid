@@ -29,6 +29,9 @@ public final class FragmentPerfilBinding implements ViewBinding {
   public final AppCompatButton btnCS;
 
   @NonNull
+  public final AppCompatButton btnDatosMenor;
+
+  @NonNull
   public final ImageButton btnfc;
 
   @NonNull
@@ -36,9 +39,6 @@ public final class FragmentPerfilBinding implements ViewBinding {
 
   @NonNull
   public final AppCompatButton button;
-
-  @NonNull
-  public final AppCompatButton button2;
 
   @NonNull
   public final AppCompatButton button4;
@@ -57,16 +57,17 @@ public final class FragmentPerfilBinding implements ViewBinding {
 
   private FragmentPerfilBinding(@NonNull ConstraintLayout rootView,
       @NonNull AppCompatButton btnActualizarDatos, @NonNull AppCompatButton btnCS,
-      @NonNull ImageButton btnfc, @NonNull ImageButton btnig, @NonNull AppCompatButton button,
-      @NonNull AppCompatButton button2, @NonNull AppCompatButton button4, @NonNull TextView correoU,
-      @NonNull ImageView imageView, @NonNull ImageView imageView2, @NonNull TextView nombreU) {
+      @NonNull AppCompatButton btnDatosMenor, @NonNull ImageButton btnfc,
+      @NonNull ImageButton btnig, @NonNull AppCompatButton button, @NonNull AppCompatButton button4,
+      @NonNull TextView correoU, @NonNull ImageView imageView, @NonNull ImageView imageView2,
+      @NonNull TextView nombreU) {
     this.rootView = rootView;
     this.btnActualizarDatos = btnActualizarDatos;
     this.btnCS = btnCS;
+    this.btnDatosMenor = btnDatosMenor;
     this.btnfc = btnfc;
     this.btnig = btnig;
     this.button = button;
-    this.button2 = button2;
     this.button4 = button4;
     this.correoU = correoU;
     this.imageView = imageView;
@@ -113,6 +114,12 @@ public final class FragmentPerfilBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.btnDatosMenor;
+      AppCompatButton btnDatosMenor = ViewBindings.findChildViewById(rootView, id);
+      if (btnDatosMenor == null) {
+        break missingId;
+      }
+
       id = R.id.btnfc;
       ImageButton btnfc = ViewBindings.findChildViewById(rootView, id);
       if (btnfc == null) {
@@ -128,12 +135,6 @@ public final class FragmentPerfilBinding implements ViewBinding {
       id = R.id.button;
       AppCompatButton button = ViewBindings.findChildViewById(rootView, id);
       if (button == null) {
-        break missingId;
-      }
-
-      id = R.id.button2;
-      AppCompatButton button2 = ViewBindings.findChildViewById(rootView, id);
-      if (button2 == null) {
         break missingId;
       }
 
@@ -168,7 +169,7 @@ public final class FragmentPerfilBinding implements ViewBinding {
       }
 
       return new FragmentPerfilBinding((ConstraintLayout) rootView, btnActualizarDatos, btnCS,
-          btnfc, btnig, button, button2, button4, correoU, imageView, imageView2, nombreU);
+          btnDatosMenor, btnfc, btnig, button, button4, correoU, imageView, imageView2, nombreU);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

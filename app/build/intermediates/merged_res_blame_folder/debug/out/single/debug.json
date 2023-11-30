@@ -1,222 +1,274 @@
 [
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_registroo.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_registroo.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_logo.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\logo.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_btn_background_1.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\btn_background_1.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_info_24.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_fragment_perfil.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_perfil.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ahorcado5.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ahorcado5.jpg"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_5.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_5.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_2.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_2.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_content_nav_drawer.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\content_nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ig.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ig.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_actualizar_datos.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_actualizar_datos.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_top_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\top_background.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_nav_header_nav_drawer.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\nav_header_nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ahorcado2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ahorcado2.jpg"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_fragment_slideshow.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_slideshow.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_4.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_4.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_edittext_background.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\edittext_background.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_4.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_4.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_ahorcado.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_ahorcado.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_top_background.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\top_background.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_fc.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\fc.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_nav_drawer.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\menu_nav_drawer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\menu\\nav_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_img.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\img.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_nav_drawer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_nav_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_boy_24.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_boy_24.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_btn_background_2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\btn_background_2.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ahorcado6.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ahorcado6.jpg"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_menu_gallery.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_menu_gallery.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_person_24.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_nav_header_nav_drawer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\nav_header_nav_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\profile.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_menu_camera.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_menu_camera.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_1.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_1.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ahorcado3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ahorcado3.jpg"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_home_24.xml"
     },
     {
-        "merged": "com.example.aa.app-merged_res-42:/layout_activity_actualizar_datos.xml.flat",
-        "source": "com.example.aa.app-main-44:/layout/activity_actualizar_datos.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_esp_medicas.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_esp_medicas.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\logo.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_app_bar_nav_drawer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\app_bar_nav_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_actualizar_datos.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_actualizar_datos.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_menu_slideshow.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_menu_slideshow.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_3.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_3.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ig.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ig.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\img_2.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_esp_medicas.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_esp_medicas.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_content_nav_drawer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\content_nav_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_fc.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\fc.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\menu_activity_nav_drawer_drawer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\menu\\activity_nav_drawer_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_info_24.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_info_24.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\edittext_background.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\menu_activity_nav_drawer_drawer.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\menu\\activity_nav_drawer_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ahorcado0.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ahorcado0.jpg"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_btn_background_1.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\btn_background_1.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_registroo.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_registroo.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_person_24.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_person_24.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_5.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_5.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_app_bar_nav_drawer.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\app_bar_nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_inicio_sesion.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_inicio_sesion.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\menu_nav_drawer.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\menu\\nav_drawer.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_side_nav_bar.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\img.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_inicio_sesion.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_inicio_sesion.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_3.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_3.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_2.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_2.png"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_fragment_gallery.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_gallery.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ahorcado4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ahorcado4.jpg"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_profile.png.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\profile.png"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_accessibility_new_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_accessibility_new_24.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_home_24.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_boy_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_boy_24.xml"
     },
     {
-        "merged": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_btn_background_2.xml.flat",
-        "source": "C:\\Users\\julio\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\btn_background_2.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_gato.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_gato.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ic_1.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_ahorcado1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\ahorcado1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_fragment_perfil.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.aa.app-merged_res-42:/layout_activity_ahorcado.xml.flat",
+        "source": "com.example.aa.app-main-44:/layout/activity_ahorcado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\drawable_baseline_pattern_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\drawable\\baseline_pattern_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.aa.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
     }
 ]

@@ -6,130 +6,142 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml
+8-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml
+9-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml
 10
 11    <permission
-11-->[androidx.core:core:1.9.0] C:\Users\julio\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+11-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 12        android:name="com.example.aa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] C:\Users\julio\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+12-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] C:\Users\julio\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+13-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 14
 15    <uses-permission android:name="com.example.aa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] C:\Users\julio\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] C:\Users\julio\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+15-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:5:5-41:19
+17-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:5:5-47:19
 18        android:allowBackup="true"
-18-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:6:9-35
+18-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] C:\Users\julio\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+19-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:7:9-65
+20-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:8:9-54
+23-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:9:9-43
+24-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:10:9-41
+25-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:11:9-54
+26-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:12:9-35
+27-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.Aa" >
-29-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:13:9-40
+29-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:13:9-40
 30        <activity
-30-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:15:9-17:40
-31            android:name="com.example.aa.ui.perfil.ActualizarDatos"
-31-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:16:13-54
+30-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:15:9-17:40
+31            android:name="com.example.aa.Ahorcado"
+31-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:16:13-37
 32            android:exported="false" />
-32-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:17:13-37
+32-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:17:13-37
 33        <activity
-33-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:18:9-22:59
-34            android:name="com.example.aa.NavDrawerActivity"
-34-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:19:13-46
-35            android:exported="false"
-35-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:20:13-37
-36            android:label="@string/title_activity_nav_drawer"
-36-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:21:13-62
-37            android:theme="@style/Theme.Aa.NoActionBar" />
-37-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:22:13-56
-38        <activity
-38-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:23:9-25:40
-39            android:name="com.example.aa.EspMedicas"
-39-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:24:13-39
-40            android:exported="false" />
-40-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:25:13-37
-41        <activity
-41-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:26:9-28:40
-42            android:name="com.example.aa.InicioSesion"
-42-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:27:13-41
-43            android:exported="false" />
-43-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:28:13-37
+33-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:18:9-20:40
+34            android:name="com.example.aa.Gato"
+34-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:19:13-33
+35            android:exported="false" />
+35-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:20:13-37
+36        <activity
+36-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:21:9-23:40
+37            android:name="com.example.aa.ui.perfil.ActualizarDatos"
+37-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:22:13-54
+38            android:exported="false" />
+38-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:23:13-37
+39        <activity
+39-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:24:9-28:59
+40            android:name="com.example.aa.NavDrawerActivity"
+40-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:25:13-46
+41            android:exported="false"
+41-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:26:13-37
+42            android:label="@string/title_activity_nav_drawer"
+42-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:27:13-62
+43            android:theme="@style/Theme.Aa.NoActionBar" />
+43-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:28:13-56
 44        <activity
-44-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:29:9-31:40
-45            android:name="com.example.aa.Registroo"
-45-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:30:13-38
+44-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:29:9-31:40
+45            android:name="com.example.aa.EspMedicas"
+45-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:30:13-39
 46            android:exported="false" />
-46-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:31:13-37
+46-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:31:13-37
 47        <activity
-47-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:32:9-40:20
-48            android:name="com.example.aa.MainActivity"
-48-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:33:13-41
-49            android:exported="true" >
-49-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:34:13-36
-50            <intent-filter>
-50-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:35:13-39:29
-51                <action android:name="android.intent.action.MAIN" />
-51-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:36:17-69
-51-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:36:25-66
-52
-53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:38:17-77
-53-->C:\Users\julio\Documents\Proyectos\ProyectosEscuela\BitCubeAndroid\app\src\main\AndroidManifest.xml:38:27-74
-54            </intent-filter>
-55        </activity>
-56
-57        <provider
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\julio\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-58            android:name="androidx.startup.InitializationProvider"
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\julio\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-59            android:authorities="com.example.aa.androidx-startup"
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\julio\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-60            android:exported="false" >
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\julio\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-61            <meta-data
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\julio\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-62                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\julio\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-63                android:value="androidx.startup" />
-63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\julio\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-64            <meta-data
-64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\julio\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-65                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\julio\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-66                android:value="androidx.startup" />
-66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\julio\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-67        </provider>
-68
-69        <uses-library
-69-->[androidx.window:window:1.0.0] C:\Users\julio\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-70            android:name="androidx.window.extensions"
-70-->[androidx.window:window:1.0.0] C:\Users\julio\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-71            android:required="false" />
-71-->[androidx.window:window:1.0.0] C:\Users\julio\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-72        <uses-library
-72-->[androidx.window:window:1.0.0] C:\Users\julio\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-73            android:name="androidx.window.sidecar"
-73-->[androidx.window:window:1.0.0] C:\Users\julio\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-74            android:required="false" />
-74-->[androidx.window:window:1.0.0] C:\Users\julio\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-75    </application>
-76
-77</manifest>
+47-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:32:9-34:40
+48            android:name="com.example.aa.InicioSesion"
+48-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:33:13-41
+49            android:exported="false" />
+49-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:34:13-37
+50        <activity
+50-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:35:9-37:40
+51            android:name="com.example.aa.Registroo"
+51-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:36:13-38
+52            android:exported="false" />
+52-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:37:13-37
+53        <activity
+53-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:38:9-46:20
+54            android:name="com.example.aa.MainActivity"
+54-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:39:13-41
+55            android:exported="true" >
+55-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:40:13-36
+56            <intent-filter>
+56-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:41:13-45:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:42:17-69
+57-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:42:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:44:17-77
+59-->C:\Users\Lenovo\BitCubeAndroid-main\app\src\main\AndroidManifest.xml:44:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <provider
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+65            android:authorities="com.example.aa.androidx-startup"
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+66            android:exported="false" >
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+67            <meta-data
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+69                android:value="androidx.startup" />
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+70            <meta-data
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Lenovo\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+71                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Lenovo\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+72                android:value="androidx.startup" />
+72-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Lenovo\.gradle\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+73        </provider>
+74
+75        <uses-library
+75-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+76            android:name="androidx.window.extensions"
+76-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+77            android:required="false" />
+77-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+78        <uses-library
+78-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+79            android:name="androidx.window.sidecar"
+79-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+80            android:required="false" />
+80-->[androidx.window:window:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\98fbcfdeb64a67de9fd697c6d31f0b08\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+81    </application>
+82
+83</manifest>

@@ -1,5 +1,6 @@
 package com.example.aa.ui.perfil;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -17,6 +18,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.example.aa.Base;
+import com.example.aa.EspMedicas;
 import com.example.aa.MainActivity;
 import com.example.aa.R;
 import com.example.aa.databinding.FragmentPerfilBinding;
@@ -45,7 +47,7 @@ public class PerfilFragment extends Fragment {
         Cursor cursor = baseDatos.obtenerUsuario(correoUsuario);
 
         if (cursor != null && cursor.moveToFirst()) {
-            String nombre = cursor.getString(cursor.getColumnIndex("nombreUsuario"));
+            @SuppressLint("Range") String nombre = cursor.getString(cursor.getColumnIndex("nombreUsuario"));
             binding.nombreU.setText(nombre);
             binding.correoU.setText(correoUsuario);
             cursor.close();
@@ -63,6 +65,10 @@ public class PerfilFragment extends Fragment {
 
         binding.btnfc.setOnClickListener(view -> startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.facebook.com"))));
         binding.btnig.setOnClickListener(view -> startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://instagram.com"))));
+
+        binding.btnDatosMenor.setOnClickListener(view -> {
+            Intent intent = new Intent(getActivity(), EspMedicas.class);
+            startActivity(intent);});
 
         binding.btnCS.setOnClickListener(view -> {
             cerrarSesion();

@@ -28,6 +28,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.Aa" >
         <activity
+            android:name="com.example.aa.Ahorcado"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aa.Gato"
+            android:exported="false" />
+        <activity
             android:name="com.example.aa.ui.perfil.ActualizarDatos"
             android:exported="false" />
         <activity

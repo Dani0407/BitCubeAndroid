@@ -40,9 +40,6 @@ public final class ActivityActualizarDatosBinding implements ViewBinding {
   public final EditText cod;
 
   @NonNull
-  public final EditText contra;
-
-  @NonNull
   public final EditText edadinf;
 
   @NonNull
@@ -63,9 +60,8 @@ public final class ActivityActualizarDatosBinding implements ViewBinding {
   private ActivityActualizarDatosBinding(@NonNull ConstraintLayout rootView,
       @NonNull EditText apeMat, @NonNull EditText apeMatInf, @NonNull EditText apePat,
       @NonNull EditText apePatInf, @NonNull Button btnregis, @NonNull EditText cod,
-      @NonNull EditText contra, @NonNull EditText edadinf, @NonNull EditText nomInf,
-      @NonNull EditText nombre, @NonNull EditText rfc, @NonNull ScrollView scrol,
-      @NonNull EditText tel) {
+      @NonNull EditText edadinf, @NonNull EditText nomInf, @NonNull EditText nombre,
+      @NonNull EditText rfc, @NonNull ScrollView scrol, @NonNull EditText tel) {
     this.rootView = rootView;
     this.apeMat = apeMat;
     this.apeMatInf = apeMatInf;
@@ -73,7 +69,6 @@ public final class ActivityActualizarDatosBinding implements ViewBinding {
     this.apePatInf = apePatInf;
     this.btnregis = btnregis;
     this.cod = cod;
-    this.contra = contra;
     this.edadinf = edadinf;
     this.nomInf = nomInf;
     this.nombre = nombre;
@@ -145,12 +140,6 @@ public final class ActivityActualizarDatosBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.contra;
-      EditText contra = ViewBindings.findChildViewById(rootView, id);
-      if (contra == null) {
-        break missingId;
-      }
-
       id = R.id.edadinf;
       EditText edadinf = ViewBindings.findChildViewById(rootView, id);
       if (edadinf == null) {
@@ -188,7 +177,7 @@ public final class ActivityActualizarDatosBinding implements ViewBinding {
       }
 
       return new ActivityActualizarDatosBinding((ConstraintLayout) rootView, apeMat, apeMatInf,
-          apePat, apePatInf, btnregis, cod, contra, edadinf, nomInf, nombre, rfc, scrol, tel);
+          apePat, apePatInf, btnregis, cod, edadinf, nomInf, nombre, rfc, scrol, tel);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

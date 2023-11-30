@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Aa"
         tools:targetApi="31">
         <activity
+            android:name=".Ahorcado"
+            android:exported="false" />
+        <activity
+            android:name=".Gato"
+            android:exported="false" />
+        <activity
             android:name=".ui.perfil.ActualizarDatos"
             android:exported="false" />
         <activity
