@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Aa" >
         <activity
+            android:name="com.example.aa.ui.perfil.ActualizarDatos"
+            android:exported="false" />
+        <activity
             android:name="com.example.aa.NavDrawerActivity"
             android:exported="false"
             android:label="@string/title_activity_nav_drawer"

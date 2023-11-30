@@ -4,13 +4,13 @@ package com.example.aa.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.widget.AppCompatButton;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.aa.R;
@@ -20,16 +20,13 @@ import java.lang.String;
 
 public final class FragmentPerfilBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button btnacercade;
+  public final AppCompatButton btnActualizarDatos;
 
   @NonNull
-  public final Button btnavance;
-
-  @NonNull
-  public final Button btncamper;
+  public final AppCompatButton btnCS;
 
   @NonNull
   public final ImageButton btnfc;
@@ -38,36 +35,48 @@ public final class FragmentPerfilBinding implements ViewBinding {
   public final ImageButton btnig;
 
   @NonNull
-  public final TextView coreo;
+  public final AppCompatButton button;
 
   @NonNull
-  public final ImageView imgperfil;
+  public final AppCompatButton button2;
 
   @NonNull
-  public final TextView textGallery;
+  public final AppCompatButton button4;
 
   @NonNull
-  public final TextView textusu;
+  public final TextView correoU;
 
-  private FragmentPerfilBinding(@NonNull LinearLayout rootView, @NonNull Button btnacercade,
-      @NonNull Button btnavance, @NonNull Button btncamper, @NonNull ImageButton btnfc,
-      @NonNull ImageButton btnig, @NonNull TextView coreo, @NonNull ImageView imgperfil,
-      @NonNull TextView textGallery, @NonNull TextView textusu) {
+  @NonNull
+  public final ImageView imageView;
+
+  @NonNull
+  public final ImageView imageView2;
+
+  @NonNull
+  public final TextView nombreU;
+
+  private FragmentPerfilBinding(@NonNull ConstraintLayout rootView,
+      @NonNull AppCompatButton btnActualizarDatos, @NonNull AppCompatButton btnCS,
+      @NonNull ImageButton btnfc, @NonNull ImageButton btnig, @NonNull AppCompatButton button,
+      @NonNull AppCompatButton button2, @NonNull AppCompatButton button4, @NonNull TextView correoU,
+      @NonNull ImageView imageView, @NonNull ImageView imageView2, @NonNull TextView nombreU) {
     this.rootView = rootView;
-    this.btnacercade = btnacercade;
-    this.btnavance = btnavance;
-    this.btncamper = btncamper;
+    this.btnActualizarDatos = btnActualizarDatos;
+    this.btnCS = btnCS;
     this.btnfc = btnfc;
     this.btnig = btnig;
-    this.coreo = coreo;
-    this.imgperfil = imgperfil;
-    this.textGallery = textGallery;
-    this.textusu = textusu;
+    this.button = button;
+    this.button2 = button2;
+    this.button4 = button4;
+    this.correoU = correoU;
+    this.imageView = imageView;
+    this.imageView2 = imageView2;
+    this.nombreU = nombreU;
   }
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -92,21 +101,15 @@ public final class FragmentPerfilBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btnacercade;
-      Button btnacercade = ViewBindings.findChildViewById(rootView, id);
-      if (btnacercade == null) {
+      id = R.id.btnActualizarDatos;
+      AppCompatButton btnActualizarDatos = ViewBindings.findChildViewById(rootView, id);
+      if (btnActualizarDatos == null) {
         break missingId;
       }
 
-      id = R.id.btnavance;
-      Button btnavance = ViewBindings.findChildViewById(rootView, id);
-      if (btnavance == null) {
-        break missingId;
-      }
-
-      id = R.id.btncamper;
-      Button btncamper = ViewBindings.findChildViewById(rootView, id);
-      if (btncamper == null) {
+      id = R.id.btnCS;
+      AppCompatButton btnCS = ViewBindings.findChildViewById(rootView, id);
+      if (btnCS == null) {
         break missingId;
       }
 
@@ -122,32 +125,50 @@ public final class FragmentPerfilBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.coreo;
-      TextView coreo = ViewBindings.findChildViewById(rootView, id);
-      if (coreo == null) {
+      id = R.id.button;
+      AppCompatButton button = ViewBindings.findChildViewById(rootView, id);
+      if (button == null) {
         break missingId;
       }
 
-      id = R.id.imgperfil;
-      ImageView imgperfil = ViewBindings.findChildViewById(rootView, id);
-      if (imgperfil == null) {
+      id = R.id.button2;
+      AppCompatButton button2 = ViewBindings.findChildViewById(rootView, id);
+      if (button2 == null) {
         break missingId;
       }
 
-      id = R.id.text_gallery;
-      TextView textGallery = ViewBindings.findChildViewById(rootView, id);
-      if (textGallery == null) {
+      id = R.id.button4;
+      AppCompatButton button4 = ViewBindings.findChildViewById(rootView, id);
+      if (button4 == null) {
         break missingId;
       }
 
-      id = R.id.textusu;
-      TextView textusu = ViewBindings.findChildViewById(rootView, id);
-      if (textusu == null) {
+      id = R.id.correoU;
+      TextView correoU = ViewBindings.findChildViewById(rootView, id);
+      if (correoU == null) {
         break missingId;
       }
 
-      return new FragmentPerfilBinding((LinearLayout) rootView, btnacercade, btnavance, btncamper,
-          btnfc, btnig, coreo, imgperfil, textGallery, textusu);
+      id = R.id.imageView;
+      ImageView imageView = ViewBindings.findChildViewById(rootView, id);
+      if (imageView == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView2;
+      ImageView imageView2 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView2 == null) {
+        break missingId;
+      }
+
+      id = R.id.nombreU;
+      TextView nombreU = ViewBindings.findChildViewById(rootView, id);
+      if (nombreU == null) {
+        break missingId;
+      }
+
+      return new FragmentPerfilBinding((ConstraintLayout) rootView, btnActualizarDatos, btnCS,
+          btnfc, btnig, button, button2, button4, correoU, imageView, imageView2, nombreU);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

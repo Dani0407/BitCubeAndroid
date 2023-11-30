@@ -1735,6 +1735,7 @@ int color material_timepicker_button_stroke 0x7f0601fb
 int color material_timepicker_clock_text_color 0x7f0601fc
 int color material_timepicker_clockface 0x7f0601fd
 int color material_timepicker_modebutton_tint 0x7f0601fe
+int color morado 0x7f060250
 int color mtrl_btn_bg_color_selector 0x7f0601ff
 int color mtrl_btn_ripple_color 0x7f060200
 int color mtrl_btn_stroke_color_selector 0x7f060201
@@ -1815,6 +1816,10 @@ int color test_mtrl_calendar_day_selected 0x7f06024b
 int color tooltip_background_dark 0x7f06024c
 int color tooltip_background_light 0x7f06024d
 int color verde 0x7f06024e
+int color verde1 0x7f060251
+int color verde2 0x7f060252
+int color verde3 0x7f060253
+int color verde4 0x7f060254
 int color white 0x7f06024f
 int dimen abc_action_bar_content_inset_material 0x7f070000
 int dimen abc_action_bar_content_inset_with_nav 0x7f070001
@@ -2490,6 +2495,8 @@ int drawable baseline_boy_24 0x7f080058
 int drawable baseline_home_24 0x7f080059
 int drawable baseline_info_24 0x7f08005a
 int drawable baseline_person_24 0x7f08005b
+int drawable btn_background_1 0x7f0800aa
+int drawable btn_background_2 0x7f0800ab
 int drawable btn_checkbox_checked_mtrl 0x7f08005c
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f08005d
 int drawable btn_checkbox_unchecked_mtrl 0x7f08005e
@@ -2505,6 +2512,11 @@ int drawable design_password_eye 0x7f080067
 int drawable design_snackbar_background 0x7f080068
 int drawable edittext_background 0x7f080069
 int drawable fc 0x7f08006a
+int drawable ic_1 0x7f0800ac
+int drawable ic_2 0x7f0800ad
+int drawable ic_3 0x7f0800ae
+int drawable ic_4 0x7f0800af
+int drawable ic_5 0x7f0800b0
 int drawable ic_clock_black_24dp 0x7f08006b
 int drawable ic_keyboard_black_24dp 0x7f08006c
 int drawable ic_launcher_background 0x7f08006d
@@ -2563,11 +2575,13 @@ int drawable notification_template_icon_bg 0x7f0800a1
 int drawable notification_template_icon_low_bg 0x7f0800a2
 int drawable notification_tile_bg 0x7f0800a3
 int drawable notify_panel_notification_icon_bg 0x7f0800a4
+int drawable profile 0x7f0800b1
 int drawable side_nav_bar 0x7f0800a5
 int drawable test_custom_background 0x7f0800a6
 int drawable test_level_drawable 0x7f0800a7
 int drawable tooltip_frame_dark 0x7f0800a8
 int drawable tooltip_frame_light 0x7f0800a9
+int drawable top_background 0x7f0800b2
 int id ALT 0x7f090000
 int id BOTTOM_END 0x7f090001
 int id BOTTOM_START 0x7f090002
@@ -2673,14 +2687,16 @@ int id bounce 0x7f090065
 int id bounceBoth 0x7f090066
 int id bounceEnd 0x7f090067
 int id bounceStart 0x7f090068
-int id btnacercade 0x7f090069
-int id btnavance 0x7f09006a
-int id btncamper 0x7f09006b
+int id btnActualizarDatos 0x7f09021f
+int id btnCS 0x7f09021c
 int id btnesp 0x7f09006c
 int id btnfc 0x7f09006d
 int id btnig 0x7f09006e
 int id btninic 0x7f09006f
 int id btnregis 0x7f090070
+int id button 0x7f090215
+int id button2 0x7f090216
+int id button4 0x7f090218
 int id buttonPanel 0x7f090071
 int id cache_measures 0x7f090072
 int id callMeasure 0x7f090073
@@ -2718,8 +2734,8 @@ int id contiguous 0x7f090092
 int id continuousVelocity 0x7f090093
 int id contra 0x7f090094
 int id coordinator 0x7f090095
-int id coreo 0x7f090096
 int id correo 0x7f090097
+int id correoU 0x7f09021d
 int id cos 0x7f090098
 int id counterclockwise 0x7f090099
 int id currentState 0x7f09009a
@@ -2809,7 +2825,7 @@ int id ignore 0x7f0900ed
 int id ignoreRequest 0x7f0900ee
 int id image 0x7f0900ef
 int id imageView 0x7f0900f0
-int id imgperfil 0x7f0900f1
+int id imageView2 0x7f09021a
 int id immediateStop 0x7f0900f2
 int id included 0x7f0900f3
 int id info 0x7f0900f4
@@ -2913,6 +2929,7 @@ int id noScroll 0x7f090155
 int id noState 0x7f090156
 int id nomInf 0x7f090157
 int id nombre 0x7f090158
+int id nombreU 0x7f09021e
 int id none 0x7f090159
 int id normal 0x7f09015a
 int id north 0x7f09015b
@@ -3059,7 +3076,6 @@ int id textinput_helper_text 0x7f0901e7
 int id textinput_placeholder 0x7f0901e8
 int id textinput_prefix_text 0x7f0901e9
 int id textinput_suffix_text 0x7f0901ea
-int id textusu 0x7f0901eb
 int id time 0x7f0901ec
 int id title 0x7f0901ed
 int id titleDividerNoCustom 0x7f0901ee
@@ -3187,6 +3203,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0c0018
 int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
+int layout activity_actualizar_datos 0x7f0c007f
 int layout activity_esp_medicas 0x7f0c001c
 int layout activity_inicio_sesion 0x7f0c001d
 int layout activity_main 0x7f0c001e

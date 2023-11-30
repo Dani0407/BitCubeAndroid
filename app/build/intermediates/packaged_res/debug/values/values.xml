@@ -14,7 +14,12 @@
     </string-array>
     <color name="black">#FF000000</color>
     <color name="crema">#FFCC99</color>
+    <color name="morado">#8F9FBF</color>
     <color name="verde">#007700</color>
+    <color name="verde1">#BAD9D6</color>
+    <color name="verde2">#58A681</color>
+    <color name="verde3">#345959</color>
+    <color name="verde4">#224040</color>
     <color name="white">#FFFFFFFF</color>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>

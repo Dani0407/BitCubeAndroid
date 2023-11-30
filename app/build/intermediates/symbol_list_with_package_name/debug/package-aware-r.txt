@@ -1736,6 +1736,7 @@ color material_timepicker_button_stroke
 color material_timepicker_clock_text_color
 color material_timepicker_clockface
 color material_timepicker_modebutton_tint
+color morado
 color mtrl_btn_bg_color_selector
 color mtrl_btn_ripple_color
 color mtrl_btn_stroke_color_selector
@@ -1816,6 +1817,10 @@ color test_mtrl_calendar_day_selected
 color tooltip_background_dark
 color tooltip_background_light
 color verde
+color verde1
+color verde2
+color verde3
+color verde4
 color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
@@ -2491,6 +2496,8 @@ drawable baseline_boy_24
 drawable baseline_home_24
 drawable baseline_info_24
 drawable baseline_person_24
+drawable btn_background_1
+drawable btn_background_2
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2506,6 +2513,11 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable edittext_background
 drawable fc
+drawable ic_1
+drawable ic_2
+drawable ic_3
+drawable ic_4
+drawable ic_5
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2564,11 +2576,13 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable profile
 drawable side_nav_bar
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable top_background
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2674,14 +2688,16 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id btnacercade
-id btnavance
-id btncamper
+id btnActualizarDatos
+id btnCS
 id btnesp
 id btnfc
 id btnig
 id btninic
 id btnregis
+id button
+id button2
+id button4
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2719,8 +2735,8 @@ id contiguous
 id continuousVelocity
 id contra
 id coordinator
-id coreo
 id correo
+id correoU
 id cos
 id counterclockwise
 id currentState
@@ -2810,7 +2826,7 @@ id ignore
 id ignoreRequest
 id image
 id imageView
-id imgperfil
+id imageView2
 id immediateStop
 id included
 id info
@@ -2914,6 +2930,7 @@ id noScroll
 id noState
 id nomInf
 id nombre
+id nombreU
 id none
 id normal
 id north
@@ -3060,7 +3077,6 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id textusu
 id time
 id title
 id titleDividerNoCustom
@@ -3188,6 +3204,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_actualizar_datos
 layout activity_esp_medicas
 layout activity_inicio_sesion
 layout activity_main

@@ -30,6 +30,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="16dp"
+                android:paddingStart="50dp"
                 android:text="Nombre"
                 android:textColor="#330000"
                 android:textSize="15sp" />
@@ -49,6 +50,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="16dp"
+                android:paddingStart="50dp"
                 android:text="Apellido Paterno"
                 android:textColor="#330000"
                 android:textSize="16sp" />
@@ -68,6 +70,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="16dp"
+                android:paddingStart="50dp"
                 android:text="Apellido Materno"
                 android:textColor="#330000"
                 android:textSize="16sp" />
@@ -87,6 +90,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="16dp"
+                android:paddingStart="50dp"
                 android:text="Correo"
                 android:textColor="#330000"
                 android:textSize="16sp" />
@@ -109,6 +113,7 @@
                 android:layout_height="wrap_content"
                 android:padding="16dp"
                 android:text="Telefono"
+                android:paddingStart="50dp"
                 android:textColor="#330000"
                 android:textSize="16sp" />
 
@@ -129,6 +134,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="16dp"
+                android:paddingStart="50dp"
                 android:text="Contraseña"
                 android:textColor="#330000"
                 android:textSize="16sp" />
@@ -151,6 +157,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="16dp"
+                android:paddingStart="50dp"
                 android:text="RFC"
                 android:textColor="#330000"
                 android:textSize="16sp" />
@@ -172,7 +179,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="16dp"
-                android:text="codigo"
+                android:paddingStart="50dp"
+                android:text="Código"
                 android:textColor="#330000"
                 android:textSize="16sp" />
 
@@ -193,14 +201,16 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:padding="8dp"
                 android:text="Datos del Infante"
+                android:paddingLeft="100dp"
                 android:textColor="#330000"
                 android:textSize="25sp" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:paddingStart="50dp"
+                android:padding="12dp"
                 android:text="Nombre del Infante"
                 android:textSize="15dp" />
 
@@ -214,6 +224,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:paddingStart="50dp"
+                android:padding="12dp"
                 android:text="Apellido Paterno del Infante"
                 android:textSize="15dp" />
 
@@ -227,6 +239,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:paddingStart="50dp"
+                android:padding="12dp"
                 android:text="Apellido Materno del Infante"
                 android:textSize="15dp" />
 
@@ -239,6 +253,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:paddingStart="50dp"
+                android:padding="12dp"
                 android:text="Edad del Infante"
                 android:textSize="15dp" />
 
@@ -251,12 +267,16 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:paddingStart="50dp"
+                android:padding="12dp"
                 android:text="Sexo del Infante"
                 android:textSize="15dp" />
 
             <Spinner
                 android:id="@+id/sexoinf"
                 android:layout_width="wrap_content"
+                android:padding="12dp"
+                android:layout_marginStart="50dp"
                 android:layout_height="wrap_content"/>
 
 
@@ -265,7 +285,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:backgroundTint="#F5A98F"
-                android:padding="12dp"
+                android:padding="20dp"
+                android:paddingBottom="30dp"
+                android:layout_marginStart="50dp"
                 android:text="Regístrate"
                 android:textColor="@color/black" />
 
